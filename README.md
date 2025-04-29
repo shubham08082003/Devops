@@ -39,8 +39,5 @@ The front-end code exits in the `front-end-nextjs` directory. You can run the fr
 
 The goal is to get hands-on with DevOps practices like Containerization, CICD and monitoring.
 
-.
-
-
 
 
